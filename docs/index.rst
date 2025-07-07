@@ -5,7 +5,7 @@ How to Download FuboTV Windows 10?
    :caption: Contents: 
 
 
-.. image:: downloads.png
+.. image:: https://lh5.googleusercontent.com/DCiVFLZioh32eaiSCJkhl-jQbTIzX5Usrd16sgecOqTb2-O8KtmJ4oKrmmr2Lw6KS06MyzoZYMie7lnpLRdovIHtzKAcyEl8t8TWwIxAOxgbs8UWp4ujs6qrxt7zN4IxEVvvqWSdM9q_bMbAJs_soM9No3zJ8dS5azY45CqUX4olarN5r33zXg=w1280
    :alt: My Project Logo
    :width: 400px
    :align: center
